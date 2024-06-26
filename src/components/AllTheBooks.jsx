@@ -6,7 +6,7 @@ import CardBody  from "react-bootstrap/CardBody";
 import CardTitle  from "react-bootstrap/CardTitle";
 import CardText  from "react-bootstrap/CardText";
 import CardImg  from "react-bootstrap/CardImg";
-import { Col } from "react-bootstrap";
+import Col  from "react-bootstrap/Col";
 
 
 
