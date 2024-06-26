@@ -37,10 +37,6 @@
   }
 }
 
-body{
-  /* height: 100vh; */
-}
-
 .FooterPage{
   height: 50px;
 }
@@ -54,7 +50,7 @@ body{
 }
 
 .CardTot{
-  background-color: #8b8b8b;
+  background-color: #ebebeb;
 }
 
 .Titlecard{
