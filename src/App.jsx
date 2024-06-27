@@ -5,7 +5,9 @@ import TopBar from "./components/TopBar";
 import MyFooter from "./components/MyFooter";
 import MyAlert from "./components/MyAlert";
 /* import AllTheBooks from "./components/AllTheBooks"; */
-import SingleBook from "./components/SingleBook";
+/* import SingleBook from "./components/SingleBook"; */
+import SingleBookClass from "./components/SingleBookClass";
+/* import SingleBook from "./components/SingleBook"; */
 
 function App() {
   return (
@@ -14,7 +16,8 @@ function App() {
       <TopBar/>
       <MyAlert/>
       {/* <AllTheBooks/> */}
-      <SingleBook/>
+      {/* <SingleBook/> */}
+      <SingleBookClass/>
       <MyFooter/>
       
     </div>
